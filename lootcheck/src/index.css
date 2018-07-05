@@ -1,0 +1,18 @@
+body {
+  background-color: #5f3dbb;
+  color: #fff;
+  text-align: center;
+  padding: 5%;
+  font-size: 18px;
+}
+
+button {
+  margin-left: 5px;
+  color: #fff;
+}
+
+button, input {
+  border: 2px solid #c927b3;
+  border-radius: 2px;
+  background-color: #c927b3;
+}
